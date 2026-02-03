@@ -19,4 +19,4 @@ jobs:
           echo "Runner OK"
           hostname
           whoami
-          uname
+          uname -a
